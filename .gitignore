@@ -1,8 +1,6 @@
-
 node_modules/
 deb
 echo
-
 # Created by https://www.gitignore.io/api/osx,linux,python,windows,pycharm,visualstudiocode
 
 ### Linux ###
